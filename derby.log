@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 20 12:09:00 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-6c3c-a5e3-000003ff1b30 
+on database directory memory:/Users/suvarnagovekar/Documents/workspace-sts-3.9.7.RELEASE/UserTechManagementDemo/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/Users/suvarnagovekar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/Users/suvarnagovekar/Documents/workspace-sts-3.9.7.RELEASE/UserTechManagementDemo
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
